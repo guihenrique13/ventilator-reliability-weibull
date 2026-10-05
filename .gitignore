@@ -1,0 +1,4 @@
+figs/
+.Rhistory
+.RData
+__pycache__/
